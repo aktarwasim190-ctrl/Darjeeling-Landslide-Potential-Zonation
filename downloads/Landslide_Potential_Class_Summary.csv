@@ -1,0 +1,6 @@
+﻿Class_Code,Landslide_Potential_Class,LPI_Range,Area_km2,Percent
+1,Very Low,≤ 2.525,723.81,22.66
+2,Low,2.525–2.740,583.75,18.27
+3,Moderate,2.740–2.945,653.69,20.46
+4,High,2.945–3.165,606.06,18.97
+5,Very High,> 3.165,627.31,19.64
